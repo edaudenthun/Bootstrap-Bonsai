@@ -1,0 +1,170 @@
+
+
+#Navbar {
+    background-image: url("../Img/payments-banner-graphic.png");
+    background-size: 100% 500px;
+    height: 500px;
+    background-color: transparent;
+    padding: 10px;
+}
+
+.navbar {
+    background-color: transparent;
+    border: none;
+}
+
+#Navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    height: 50px;
+}
+
+#Navbar h1, #Navbar h3 {
+    color: white;
+}
+
+#Navbar input {
+    margin: auto;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    color: #6666A1;
+    background-color: white;
+}
+
+#payments {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.bordure {
+    height: 250px;
+    border-right: 1px solid lightgrey;
+}
+
+
+#prix {
+    background-color: #F6F9FB;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#prix h2 {
+    position: relative;
+    display: inline-block;
+    padding-left: 90px;
+    font-weight: bold;
+}
+
+#prix span {
+    font-weight: normal;
+    color: #8080BE;
+    text-align: center;
+    font-size: 70px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#transbar {
+    background-color: #4C535C;
+    color: white;
+    padding: 20px;
+}
+
+.bleuclair {
+  background-color: #7CD5EF;
+  padding-top: 60px;
+  overflow: hidden;
+  height: 500px;
+  /*display: block;*/
+}
+
+.bleuclair img {
+  border-radius: 50px;
+  /*margin: auto;*/
+}
+
+.partiedroite {
+  padding-top: 80px;
+}
+.partiedroite p {
+  color: grey;
+}
+
+.milieu {
+  margin: auto;
+  height: 50%;;
+  width: 50%;
+}
+
+.milieu p {
+  font-size: 20px;
+}
+
+.ita {
+  font-style: italic;
+}
+
+#partieG {
+  padding-top: 80px;
+}
+
+#partieG p {
+color: grey;
+}
+
+#violet {
+  background-color: #8080BE;
+  padding-top: 60px;
+  overflow: hidden;
+  height: 500px;
+}
+
+#violet img {
+  border-radius: 50px;
+}
+
+#barrebas {
+    padding: 50px;
+}
+
+#barrebas input {
+  color: white;
+  background-color: #00AA83;
+  border: #00AA83;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.gras {
+  font-weight: bold;
+}
+
+.footer {
+  margin: auto;
+  width: 100%;
+  color: #AAAA99;
+  font-weight: bold;
+  overflow: hidden;
+  background-color: #4C535C;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.footer span {
+  color: #77776D;
+  font-size: 20px;
+}
+
+.footer li {
+  list-style: none;
+}
+
+.petit {
+  font-size: 15px;
+}
